@@ -1,0 +1,2 @@
+# dupegag2hub
+script
